@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="opencv-455">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/opencv/build/java/opencv-455.jar!/" />
+      <root url="file://$APPLICATION_HOME_DIR$/plugins/opencv/build/x64" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/opencv/build/java/opencv-455.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/plugins/opencv/build/java/opencv-455.jar!/" />
+    </SOURCES>
+  </library>
+</component>
